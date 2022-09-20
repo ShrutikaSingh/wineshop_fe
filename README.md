@@ -1,9 +1,9 @@
 ## STEPS TO RUN THE APP IN LOCAL
 
-#### clone the repo
-#### cd wineshop_fe
-#### npm install
-#### npm start
+#### > clone the repo
+#### > cd wineshop_fe
+#### > npm install
+#### > npm start
    app will start at http://localhost:3000/#/dashboard
 
 
@@ -17,6 +17,7 @@
 
 
 ### TABLE
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/42492660/191321934-ae8e1cc9-50c8-4c91-8558-208cb5590f23.png)
+
 
 
