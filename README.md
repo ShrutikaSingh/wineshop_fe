@@ -1,12 +1,8 @@
-# wineshop_fe
-
-
-# steps
-
-## clone the repo
-## cd wineshop_fe
-## npm install
-## npm start
+## STEPS TO RUN THE APP IN LOCA
+> clone the repo
+> cd wineshop_fe
+> npm install
+> npm start
    app will start at http://localhost:3000/#/dashboard
 
 
